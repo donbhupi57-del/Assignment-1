@@ -1,2 +1,142 @@
 # Assignment-1
-POotfolio
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>profile</title>
+</head>
+<style>
+    .div1{
+        
+        width: 250px;
+        height: 150px;
+        text-align: center;
+        padding-left: 20px;
+    }
+
+   .div2{
+        width: 100px;
+        height: 40px;
+        text-align: center;
+        padding-left: 50px;
+    }
+
+    .div3{ 
+        width: 350px;
+        height: 150px;
+        text-align: center;
+        padding-left: 20px;
+        padding: 20px;
+        padding-top: 20px;
+
+    }
+    h1{
+        background-color: rgba(128, 0, 119, 0.199);
+    }
+    
+    #p2{background-color: rgb(148, 94, 28);}
+    #p5{background-color: rgba(128, 255, 0, 0.364);}
+</style>
+
+
+<body>
+   <div class="div1">
+     <h1>Bhupender Saini</h1>
+<div class="div2">
+    <ul>
+<li>
+    <a href="www.about.com">About</a><br>
+    </li>
+    <li>
+    <a href="www.project.com">Project</a><br>
+</li> 
+<li>  
+ <a href="www.contact.com">Contact</a>
+    </li>
+
+</ul>
+</div>
+   </div>
+
+<div class="div3">
+    <h1>Welcome To My Portfolio</h1>
+    <P class="p1">Hello I Am a Web Development Student. This is my PORTFOLIO WEBSITE</P>
+    </div>
+
+    <h1>About me</h1>
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0CO8MksJyMeWsIZWwcj4JPZS5qZwG8UJprBLepwC1lDvOs5IaeFSrKKo&s=10" alt="BMW"width="200">
+    <P id="p2">I am passionate about learning web development and building creative projects .</P>
+    <h1>MY PROJECTS</h1>
+
+    <DL>
+  
+<DD>1. <b><mark>PORTFOLIO WEBSITE:</b></mark></DD>
+<DT>A PERSONAL ONE PAGE WEBSITE.</DT><BR></BR> 
+
+<DD>2. <b><mark>MEDIUM CLONE:</b></mark></DD>
+<DT>A SIMPLE BLOG LAYOUT.</DT><BR></BR>
+<DD>3. <b><mark>BIRTHDAY CARD:</b></mark></DD>
+<DT>CREATIVE GREETING.</DT><BR></BR>
+<DD>4.<b><mark>USER FORM:</b></mark></DD>
+    <DL>A FORM WEBPAGE.</DL><BR>
+
+        <H1>TECHNICAL SKILLS</H1>
+            <head> 
+                <title>table</title>
+
+            </head>
+            <body>
+                <table border="1" id="p5"> 
+                    <thead>
+                        <tr>
+                      <th > <b>SKILL</b></th>
+                      <th><b>LEVEL</b></th>      
+                        </tr>
+                    </thead>
+                    <tbody>
+
+                        <tr>
+                            <td>Html</td>
+                            <tD>Beginner</tD>
+                        </tr>
+                        <tr>
+                            <td>CSS</td>
+                            <td>Beginner</td>
+                        </tr>
+                        <tr>
+                            <td>Javascript</td>
+                            <td>Learning</td>
+                        </tr>
+                    </tbody>
+                </table><BR></BR>
+                <h1>CONTACT ME</h1>
+             <UL class="p1">
+                <LI class="p2" >NAME :
+                 <FORM>
+                   <TEXTarea>Type text here</TEXTarea>
+
+                 </FORM>   
+                </LI><BR>
+                <LI>Email:</LI>
+                <FORM></FORM>
+                   <TEXTarea>Type text here </TEXTarea>
+
+                 </FORM><BR></BR>
+                <LI>Message:</LI>
+                
+                    
+                <FORM>
+                   <TEXTarea>Type text here </TEXTarea>
+
+                 </FORM>
+             </UL>    <BR></BR>
+             <FORM>
+                   <TEXTarea>SEND</TEXTarea>
+                 </FORM>
+                  
+
+
+            
+            </body>
+</html>
