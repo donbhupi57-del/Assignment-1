@@ -6,40 +6,6 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>profile</title>
 </head>
-<style>
-    .div1{
-        
-        width: 250px;
-        height: 150px;
-        text-align: center;
-        padding-left: 20px;
-    }
-
-   .div2{
-        width: 100px;
-        height: 40px;
-        text-align: center;
-        padding-left: 50px;
-    }
-
-    .div3{ 
-        width: 350px;
-        height: 150px;
-        text-align: center;
-        padding-left: 20px;
-        padding: 20px;
-        padding-top: 20px;
-
-    }
-    h1{
-        background-color: rgba(128, 0, 119, 0.199);
-    }
-    
-    #p2{background-color: rgb(148, 94, 28);}
-    #p5{background-color: rgba(128, 255, 0, 0.364);}
-</style>
-
-
 <body>
    <div class="div1">
      <h1>Bhupender Saini</h1>
